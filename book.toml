@@ -1,0 +1,6 @@
+[book]
+authors = ["Devendran"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Casper Network Condor Release"
